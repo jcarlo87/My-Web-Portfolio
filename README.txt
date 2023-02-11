@@ -1,29 +1,17 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Web Portfolio by John Carlo Ratunil
+@johncarloratunil217
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+This is My Web Portfolio, As a student, my web portfolio showcases my educational background, school experiences, and career aspirations. It highlights my life and school experiences, relevant coursework, and provides insight into my areas of interest and expertise. The portfolio also includes dealing and coping challenges, school task/work, or extracurricular activities that demonstrate my commitment to my future career. Furthermore, it includes a comprehensive description of my (life)career goals, including the industries and roles I am interested in and my long-term aspirations. My web portfolio is a dynamic platform that allows me to showcase my skills and achievements and highlights my commitment to my future career. By presenting a clear and comprehensive picture of my experiences and education, I believe my web portfolio will help me achieve my career aspirations and stand out in the future world.
 
 
-Credits:
+JC
+schooljohncarloratunil.com | @johncarloratunil217@gmail.com
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
+Credits to following logos and trusted sites:
+
+	Sample Icons:
 		Font Awesome (fontawesome.io)
 
 	Other:
